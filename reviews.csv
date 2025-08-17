@@ -1,0 +1,9 @@
+review_text,timestamp,sentiment
+"Loved the spicy noodles! Perfect texture.",2025-08-10 12:10:00,positive
+"Service was slow and my order was wrong.",2025-08-10 18:45:00,negative
+"Ambiance is cozy, food is okay.",2025-08-11 13:00:00,neutral
+"Absolutely delicious and friendly staff!",2025-08-12 19:30:00,positive
+"Too salty and the soup was cold.",2025-08-12 20:00:00,negative
+"Good value for money.",2025-08-13 11:15:00,positive
+"Average experience, nothing special.",2025-08-14 15:25:00,neutral
+"Fantastic broth, will come again!",2025-08-14 19:10:00,positive
