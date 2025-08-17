@@ -35,7 +35,7 @@ python main.py reply --text "The noodles were fantastic but service was slow."
 
 6) **Run Agent 2** (plot date range):
 bash
-# last 7 days
+'last 7 days'
 python main.py plot --range "last 7 days"
 
 
